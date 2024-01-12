@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<foodlist>
+    <fooditem type="Karachi">
+        <name>&quot;Biryani&quot;</name>
+        <cost>Rs250</cost>
+    </fooditem>
+
+    <fooditem type="Pakistani">
+        <name>&quot;Chicken Karahi&quot;</name>
+        <cost>Rs1500</cost>
+    </fooditem>
+
+    <fooditem type="Pakistani">
+        <name>Tikka</name>
+        <cost>Rs500</cost>
+    </fooditem>
+
+    <fooditem type="American">
+        <name>Pizza Fries</name>
+        <cost>Rs350</cost>
+    </fooditem>
+</foodlist>
