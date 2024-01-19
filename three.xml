@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization xmlns:eng="https://www.Ned.edu.pk/engineering" xmlns:art="http://www.Ned.edu.pk/arts" xmlns:med="https://www.Ned.edu.pk/medical">
+    <eng:department>
+        <eng:name>ENGINEERING DEP</eng:name>
+        <eng:location>STREET 5</eng:location>
+        <eng:block>A</eng:block>
+    </eng:department>
+
+    <art:department>
+        <art:name>ART DEP</art:name>
+        <art:location>STREET 4</art:location>
+        <art:block>B</art:block>
+    </art:department>
+
+    <med:department>
+        <med:name>MEDICAL DEP</med:name>
+        <med:location>STREET 3</med:location>
+        <med:block>c</med:block>
+    </med:department>
+</organization>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <r:record xmlns:r="https://www.tesla.com/employees">
+        <r:name>Mani</r:name>
+        <r:age>25</r:age>
+        <r:salary>3000</r:salary>
+        <r:number>786</r:number>
+    </r:record>
+
+    <r:record xmlns:r="https://www.tesla.com/head">
+        <r:name>Arnold</r:name>
+        <r:age>56</r:age>
+        <r:salary>90000</r:salary>
+        <r:number>786</r:number>
+    </r:record>
+
+    <r:record xmlns:r="https://www.tesla.com/staff">
+        <r:name>Mark</r:name>
+        <r:age>36</r:age>
+        <r:salary>2500</r:salary>
+        <r:number>786</r:number>
+    </r:record>
+</records>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="one.xsl" type="text/xsl"?>
+
+<class>
+    <student>
+        <name>Peter</name>
+        <grade>A</grade>
+        <city>karachi</city>
+        <age>21</age>
+        <section>rose</section>
+    </student>
+
+    <student>
+        <name>Walker</name>
+        <grade>B</grade>
+        <city>karachi</city>
+        <age>18</age>
+        <section>tulip</section>
+    </student>
+
+    <student>
+        <name>Mark</name>
+        <grade>f</grade>
+        <city>karachi</city>
+        <age>20</age>
+        <section>rose</section>
+    </student>
+
+    <student>
+        <name>Wiliam</name>
+        <grade>c</grade>
+        <city>karachi</city>
+        <age>24</age>
+        <section>tulip</section>
+    </student>
+</class>
